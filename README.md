@@ -70,39 +70,9 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qoxmfaktmxj&show_icons=true&theme=transparent"/>
-
-</p>
-
----
-
-# Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/qoxmfaktmxj" />
-
-</p>
-
----
-
 # GitHub Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qoxmfaktmxj&theme=github-compact)](https://github.com/qoxmfaktmxj)
-
----
-
-# 3D Contribution Graph
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qoxmfaktmxj&theme=github_dark"/>
-
-</p>
 
 ---
 
@@ -116,23 +86,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# GitHub Metrics
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/main/github-metrics.svg"/>
-</p>
-
----
-
-# Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-
-</p>
-
----
 
 # Contribution Snake
 
@@ -141,14 +94,6 @@ Backend Architecture · System Modernization · Performance Optimization
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-# GitHub Skyline
-
-GitHub Skyline 3D City
-
-https://skyline.github.com/qoxmfaktmxj
 
 ---
 
