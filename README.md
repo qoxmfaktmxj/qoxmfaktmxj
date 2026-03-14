@@ -93,11 +93,3 @@ Backend Architecture · System Modernization · Performance Optimization
 </picture>
 
 ---
-
-# Contact
-
-🌐 Portfolio  
-https://www.minseok91.cloud  
-
-🐙 GitHub  
-https://github.com/qoxmfaktmxj
