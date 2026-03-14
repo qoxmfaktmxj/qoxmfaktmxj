@@ -73,8 +73,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# Contribution
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
