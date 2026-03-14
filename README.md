@@ -17,7 +17,7 @@ Backend Architecture · System Modernization · Performance Optimization
 
 </a>
 </p>
-<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="750" />
+<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
