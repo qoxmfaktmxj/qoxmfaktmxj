@@ -11,8 +11,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# Tech Stack
-
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
