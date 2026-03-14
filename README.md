@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:60A5FA&height=200&section=header&text=Backend%20Engineer%20Minseok&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<!-- HEADER -->
-
 <h1 align="center">Backend Engineer · Minseok</h1>
 
 <p align="center">
@@ -14,17 +12,27 @@ Backend Architecture · System Modernization · Performance Optimization
 
 </p>
 
+<p align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qoxmfaktmxj&utm_content=line">
+<img src="https://render.gitanimals.org/lines/qoxmfaktmxj?contribution-view=false" width="750" height="100"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
 # About Me
 
 안녕하세요.  
-**9년차 Backend Engineer 석**입니다.
+**9년차 Backend Engineer 석이**입니다.
 
 복잡한 엔터프라이즈 시스템을 분석하고  
 구조를 단순하게 정리하는 일을 좋아합니다.
 
-주요 관심 영역
+관심 영역
 
 - Backend Architecture
 - Legacy System Modernization
@@ -35,23 +43,7 @@ Backend Architecture · System Modernization · Performance Optimization
 
 # Portfolio
 
-제가 진행한 프로젝트 및 작업물은  
-아래 랜딩페이지에서 확인할 수 있습니다.
-
-### 🌐 Portfolio  
-https://www.minseok91.cloud
-
----
-
-# Current Focus
-
-현재 집중하고 있는 영역
-
-- Legacy System Modernization
-- Enterprise Backend Architecture
-- React 기반 시스템 UI 현대화
-- PostgreSQL 기반 데이터 구조 설계
-- AI 기반 개발 워크플로
+🌐 https://www.minseok91.cloud
 
 ---
 
@@ -82,58 +74,45 @@ https://www.minseok91.cloud
 
 ---
 
-# Selected Projects
-
-### HR System Modernization
-
-Legacy HR 시스템을 현대적으로 재구성한 프로젝트
-
-- Legacy Java 기반 시스템 구조 개선
-- 업무 로직 정리
-- React 기반 UI 현대화
-
----
-
-### Enterprise Grid Framework
-
-사내 공통 Grid Framework 개발
-
-- React
-- TanStack Table
-- IBSheet 대체 UI
-
----
-
-### AI Assisted Development Workflow
-
-AI 기반 개발 워크플로 구축
-
-- ChatGPT
-- Codex
-- AI Code Review
-- Architecture Validation
-
----
-
 # Representative Projects
 
 <p align="center">
 
 <a href="https://github.com/qoxmfaktmxj/vibe-hr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-hr&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-hr&theme=transparent"/>
 </a>
 
 <a href="https://github.com/qoxmfaktmxj/vibe-shop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-shop&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-shop&theme=transparent"/>
 </a>
 
 <a href="https://github.com/qoxmfaktmxj/tower-defense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=tower-defense&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=tower-defense&theme=transparent"/>
 </a>
 
 <a href="https://github.com/qoxmfaktmxj/vibe-grid">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-grid&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-grid&theme=transparent"/>
 </a>
+
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=qoxmfaktmxj&show_icons=true&theme=transparent"/>
+
+</p>
+
+---
+
+# Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/qoxmfaktmxj" />
 
 </p>
 
@@ -141,35 +120,70 @@ AI 기반 개발 워크플로 구축
 
 # GitHub Activity
 
-[![Minseok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qoxmfaktmxj&theme=github-compact)](https://github.com/qoxmfaktmxj)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qoxmfaktmxj&theme=github-compact)](https://github.com/qoxmfaktmxj)
 
 ---
 
-# Contribution Activity
+# 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qoxmfaktmxj&theme=github_dark"/>
+
+</p>
+
+---
+
+# Repository Map
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qoxmfaktmxj&theme=github_dark"/>
+
+</p>
+
+---
+
+# GitHub Metrics
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/main/github-metrics.svg"/>
+</p>
+
+---
+
+# Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+
+</p>
+
+---
+
+# Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-# Engineering Principles
+# GitHub Skyline
 
-제가 개발할 때 중요하게 생각하는 기준
+GitHub Skyline 3D City
 
-- Maintainability
-- Observability
-- Performance
-- Clear Architecture
+https://skyline.github.com/qoxmfaktmxj
 
 ---
 
 # Contact
 
-Portfolio  
+🌐 Portfolio  
 https://www.minseok91.cloud  
 
-GitHub  
+🐙 GitHub  
 https://github.com/qoxmfaktmxj
