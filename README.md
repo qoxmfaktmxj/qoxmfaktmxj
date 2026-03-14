@@ -55,14 +55,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
