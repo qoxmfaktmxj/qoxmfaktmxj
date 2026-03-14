@@ -8,15 +8,9 @@ Backend Architecture · System Modernization · Performance Optimization
 🌐 <a href="https://www.minseok91.cloud">Portfolio</a> ·
 🐙 <a href="https://github.com/qoxmfaktmxj">GitHub</a>
 </p>
-
----
-
 <p align="center">
 <img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
 </p>
-
----
-
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
