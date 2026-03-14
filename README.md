@@ -3,28 +3,15 @@
 <p align="center">
 Backend Architecture · System Modernization · Performance Optimization
 </p>
-# Core Engineering Areas
-
-### Backend
-
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-API-339933)
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API-009688)
-
-### Frontend
-
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-JS-blue)
-
-### Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Redis](https://img.shields.io/badge/Redis-Cache-red)
-
-### DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-blue)
 
