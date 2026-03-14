@@ -71,18 +71,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# Repository Map
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qoxmfaktmxj&theme=github_dark"/>
-
-</p>
-
----
-
-
-# Contribution Snake
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake-dark.svg">
