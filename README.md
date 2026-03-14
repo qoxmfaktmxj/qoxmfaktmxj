@@ -3,51 +3,6 @@
 <p align="center">
 Backend Architecture · System Modernization · Performance Optimization
 </p>
-
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3BA4F2&center=true&vCenter=true&width=800&lines=Backend+Engineer;System+Architecture;Legacy+Modernization;Performance+Optimization;AI+Assisted+Development)](https://git.io/typing-svg)
-
-</p>
-
-<p align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qoxmfaktmxj&utm_content=line">
-
-</a>
-</p>
-<p align="center">
-<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-# About Me
-
-안녕하세요.  
-**9년차 Backend Engineer 석이**입니다.
-
-복잡한 엔터프라이즈 시스템을 분석하고  
-구조를 단순하게 정리하는 일을 좋아합니다.
-
-관심 영역
-
-- Backend Architecture
-- Legacy System Modernization
-- Performance Optimization
-- AI Assisted Development
-
----
-
-# Portfolio
-
-🌐 https://www.minseok91.cloud
-
----
-
 # Core Engineering Areas
 
 ### Backend
@@ -74,6 +29,35 @@ Backend Architecture · System Modernization · Performance Optimization
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-blue)
 
 ---
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=3BA4F2&center=true&vCenter=true&width=800&lines=Backend+Engineer;System+Architecture;Legacy+Modernization;Performance+Optimization;AI+Assisted+Development)](https://git.io/typing-svg)
+
+</p>
+
+<p align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=qoxmfaktmxj&utm_content=line">
+
+</a>
+</p>
+<p align="center">
+<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# Portfolio
+
+🌐 https://www.minseok91.cloud
+
+---
+
+
 
 # Representative Projects
 
