@@ -6,7 +6,7 @@ Backend Architecture · System Modernization · Performance Optimization
 
 <p align="center">
 🌐 <a href="https://www.minseok91.cloud">Portfolio</a> ·
-🐙 <a href="https://github.com/qoxmfaktmxj">GitHub</a>
+🐙 <a href="https://qoxmfaktmxj.github.io">Blog</a>
 </p>
 <p align="center">
 <img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
