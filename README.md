@@ -60,8 +60,10 @@ https://www.minseok91.cloud
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
-![Spring](https://img.shields.io/badge/Spring-Boot-green)
-![Node](https://img.shields.io/badge/Node.js-API-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-API-339933)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API-009688)
 
 ### Frontend
 
