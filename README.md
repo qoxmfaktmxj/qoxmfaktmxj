@@ -34,27 +34,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoxmfaktmxj&layout=compact&theme=transparent"/>
 
-</p>
-<p align="center">
-
-<a href="https://github.com/qoxmfaktmxj/vibe-hr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-hr&theme=transparent"/>
-</a>
-
-<a href="https://github.com/qoxmfaktmxj/vibe-shop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-shop&theme=transparent"/>
-</a>
-
-<a href="https://github.com/qoxmfaktmxj/tower-defense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=tower-defense&theme=transparent"/>
-</a>
-
-<a href="https://github.com/qoxmfaktmxj/vibe-grid">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-grid&theme=transparent"/>
-</a>
-
-</p>
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
