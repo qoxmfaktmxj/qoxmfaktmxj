@@ -41,7 +41,7 @@ Backend Architecture · System Modernization · Performance Optimization
 
 
 
-# Representative Projects
+# Projects
 
 <p align="center">
 
@@ -65,7 +65,7 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# GitHub Activity
+# Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qoxmfaktmxj&theme=github-compact)](https://github.com/qoxmfaktmxj)
 
