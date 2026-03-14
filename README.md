@@ -1,5 +1,5 @@
 <h1 align="center">Backend Engineer · Minseok</h1>
-
+🌐 https://www.minseok91.cloud
 <p align="center">
 Backend Architecture · System Modernization · Performance Optimization
 </p>
@@ -38,11 +38,6 @@ Backend Architecture · System Modernization · Performance Optimization
 
 ---
 
-# Portfolio
-
-🌐 https://www.minseok91.cloud
-
----
 
 
 
