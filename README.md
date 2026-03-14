@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:60A5FA&height=200&section=header&text=Backend%20Engineer%20Minseok&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
 <h1 align="center">Backend Engineer · Minseok</h1>
 
 <p align="center">
@@ -17,7 +15,9 @@ Backend Architecture · System Modernization · Performance Optimization
 
 </a>
 </p>
+<p align="center">
 <img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=qoxmfaktmxj&label=Profile%20Views&color=0e75b6&style=flat"/>
