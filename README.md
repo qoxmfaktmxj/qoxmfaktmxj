@@ -137,16 +137,6 @@ AI 기반 개발 워크플로 구축
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qoxmfaktmxj&show_icons=true&theme=transparent" />
-
-</p>
-
----
-
 # GitHub Activity
 
 [![Minseok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qoxmfaktmxj&theme=github-compact)](https://github.com/qoxmfaktmxj)
