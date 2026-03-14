@@ -12,6 +12,12 @@ Backend Architecture · System Modernization · Performance Optimization
 ---
 
 <p align="center">
+<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
+</p>
+
+---
+
+<p align="center">
 
 ![Java](https://img.shields.io/badge/Java-Backend-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F)
@@ -61,14 +67,6 @@ Backend Architecture · System Modernization · Performance Optimization
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=qoxmfaktmxj&repo=vibe-grid&theme=transparent"/>
 </a>
 
-</p>
-
----
-
-# Git Animals
-
-<p align="center">
-<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
 </p>
 
 ---
