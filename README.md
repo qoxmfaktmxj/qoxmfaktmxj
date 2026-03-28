@@ -30,7 +30,6 @@ Backend Architecture · System Modernization · Performance Optimization
 ---
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=qoxmfaktmxj&show_icons=true&theme=transparent"/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qoxmfaktmxj&layout=compact&theme=transparent"/>
 
