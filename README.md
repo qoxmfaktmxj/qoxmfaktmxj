@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
+<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="100%" />
 </p>
 <p align="center">
 <p align="center">
@@ -85,21 +85,6 @@
     alt="Contribution Graph"
   />
 </p>
-
-<details>
-  <summary><b>🐾 Contribution Playground</b></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="100%" alt="Git Animals" />
-  </p>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/qoxmfaktmxj/qoxmfaktmxj/output/github-contribution-grid-snake.svg">
-  </picture>
-</details>
 
 <br/>
 
