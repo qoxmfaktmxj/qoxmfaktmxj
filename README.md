@@ -7,9 +7,6 @@
   <a href="https://qoxmfaktmxj.github.io">
     <img src="https://img.shields.io/badge/TECH_BLOG-GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tech Blog" />
   </a>
-  <a href="https://www.linkedin.com/in/minseok-kim-b47724375">
-    <img src="https://img.shields.io/badge/LINKEDIN-Kim_Minseok-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:qoxmfaktmxj@naver.com">
     <img src="https://img.shields.io/badge/CONTACT-qoxmfaktmxj%40naver.com-03C75A?style=for-the-badge" alt="Email" />
   </a>
@@ -34,28 +31,6 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>9+ YEARS</b><br/>
-      <sub>Backend / Enterprise</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>50+ CLIENTS</b><br/>
-      <sub>HR Systems Supported</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>80% ↓</b><br/>
-      <sub>Repeated Inquiries</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>20+ USERS</b><br/>
-      <sub>Internal AI Harness</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 🧭 What I Do
 
