@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/CONTACT-qoxmfaktmxj%40naver.com-03C75A?style=for-the-badge" alt="Email" />
   </a>
 </p>
-
+<p align="center">
+<img src="https://render.gitanimals.org/farms/qoxmfaktmxj" width="650" />
+</p>
+<p align="center">
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=820&lines=9%2B+years+building+enterprise+systems;Modernizing+legacy+systems+with+AI;Designing+safe+and+grounded+AI+workflows;HR+Domain+%C3%97+Backend+%C3%97+Enterprise+AI"
