@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=245&section=header&text=KIM%20MINSEOK&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=HR%20Domain%20%C3%97%20Backend%20%C3%97%20AI%20Systems&descAlignY=55&descSize=20)
+<p align="center">
+  <img
+    src="./assets/terminal-header.svg"
+    width="100%"
+    alt="KIM MINSEOK — HR Domain × Backend × AI Systems"
+  />
+</p>
 
 <p align="center">
   <a href="https://www.minseok91.cloud">
@@ -88,8 +94,12 @@
 
 <br/>
 
-<p align="center">
-  <b>Architecture matters. Domain context matters. Evidence matters.</b>
-</p>
+<br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=125&section=footer)
+<p align="center">
+  <img
+    src="./assets/terminal-footer.svg"
+    width="100%"
+    alt="Architecture matters. Domain context matters. Evidence matters."
+  />
+</p>
