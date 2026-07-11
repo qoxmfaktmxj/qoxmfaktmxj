@@ -48,78 +48,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Enterprise EHR AI Harness</h3>
-      <img src="https://img.shields.io/badge/STATUS-INTERNAL-7C3AED?style=flat-square" alt="Internal" />
-      <p>
-        레거시 HR 시스템의 코드 패턴·도메인 규칙·DB 안전정책을
-        Skills, Agents, Hooks로 패키징한 엔터프라이즈 AI 작업 환경.
-      </p>
-      <p>
-        <code>Claude Code</code>
-        <code>Codex</code>
-        <code>Agents</code>
-        <code>Guardrails</code>
-      </p>
-      <a href="https://www.minseok91.cloud/README_HARNESS.html"><b>READ PUBLIC CASE STUDY →</b></a>
-      <br/><sub>실제 소스와 사내 데이터는 비공개입니다.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 VIBE-HR</h3>
-      <img src="https://img.shields.io/badge/STATUS-PUBLIC-2563EB?style=flat-square" alt="Public" />
-      <p>
-        채용 합격자 → 사원 생성 → 발령 → 급여 흐름을 중심으로
-        한국형 HR 운영 사이클을 재구성하는 현대화 프로젝트.
-      </p>
-      <p>
-        <code>Next.js</code>
-        <code>FastAPI</code>
-        <code>PostgreSQL</code>
-        <code>AG Grid</code>
-      </p>
-      <a href="https://github.com/qoxmfaktmxj/vibe-hr"><b>VIEW REPOSITORY →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 K-HR Withholding Reference</h3>
-      <img src="https://img.shields.io/badge/STATUS-LIVE-059669?style=flat-square" alt="Live" />
-      <p>
-        법령 조문·시행일·검증 상태를 데이터 스키마로 강제하고,
-        출처가 없는 핵심 사실은 빌드 단계에서 거부하는 HR 실무 레퍼런스.
-      </p>
-      <p>
-        <code>Next.js</code>
-        <code>TypeScript</code>
-        <code>MDX</code>
-        <code>Zod</code>
-      </p>
-      <a href="https://withhold.minseok91.cloud"><b>OPEN LIVE SERVICE →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕸️ Jarvis Knowledge Engine</h3>
-      <img src="https://img.shields.io/badge/STATUS-REBUILDING-D97706?style=flat-square" alt="Rebuilding" />
-      <p>
-        Hybrid RAG, compiled LLM Wiki, Knowledge Graph를 질문 유형에 따라
-        라우팅하고 출처·시점·평가 결과를 함께 보여주는 지식 엔진으로 재구성 중.
-      </p>
-      <p>
-        <code>RAG</code>
-        <code>LLM Wiki</code>
-        <code>Knowledge Graph</code>
-        <code>Evaluation</code>
-      </p>
-      <a href="https://github.com/qoxmfaktmxj/jarvis"><b>VIEW RESEARCH REPOSITORY →</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Engineering Stack
 
 <p align="center">
@@ -143,11 +71,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=qoxmfaktmxj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github"
-    alt="GitHub Stats"
-  />
   <img
     height="175"
     src="https://streak-stats.demolab.com?user=qoxmfaktmxj&theme=github-dark-blue&hide_border=true&background=0D1117"
