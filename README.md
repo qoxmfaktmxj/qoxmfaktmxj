@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/05-editorial-header.svg"
+    src="./assets/05-editorial-paper.svg"
     width="100%"
     alt="KIM MINSEOK — HR Domain × Backend × AI Systems"
   />
