@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1372" height="112" viewBox="0 0 1372 112" role="img" aria-labelledby="title desc">
+  <title id="title">KIM MINSEOK — Editorial profile footer</title>
+  <desc id="desc">Editorial newspaper-style GitHub profile footer tightly cropped to its black frame.</desc>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFDF7"/>
+      <stop offset="100%" stop-color="#F1EBDD"/>
+    </linearGradient>
+
+    <pattern id="noise" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r=".8" fill="#111827" fill-opacity=".035"/>
+      <circle cx="6" cy="6" r=".7" fill="#111827" fill-opacity=".025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1372" height="112" fill="url(#paper)"/>
+  <rect width="1372" height="112" fill="url(#noise)"/>
+
+  <rect x="1" y="1" width="1370" height="110"
+        fill="none" stroke="#111827" stroke-width="2"/>
+
+  <line x1="20" y1="30" x2="1352" y2="30"
+        stroke="#111827" stroke-width="1"/>
+
+  <text x="20" y="20"
+        fill="#1D4ED8"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="9.5"
+        font-weight="700"
+        letter-spacing="2">THE MINSEOK SYSTEMS JOURNAL</text>
+
+  <text x="1352" y="20"
+        text-anchor="end"
+        fill="#111827"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="9.5"
+        font-weight="700"
+        letter-spacing="1.8">END OF EDITION</text>
+
+  <text x="686" y="65"
+        text-anchor="middle"
+        fill="#111827"
+        font-family="Georgia,'Times New Roman',serif"
+        font-size="18"
+        font-weight="700"
+        letter-spacing=".5">Architecture matters. Domain context matters. Evidence matters.</text>
+
+  <text x="686" y="91"
+        text-anchor="middle"
+        fill="#1D4ED8"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="10"
+        font-weight="700"
+        letter-spacing="2.2">KIM MINSEOK · BACKEND ENGINEER · SEOUL</text>
+</svg>

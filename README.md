@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/terminal-header.svg"
+    src="./assets/05-editorial-header.svg"
     width="100%"
     alt="KIM MINSEOK — HR Domain × Backend × AI Systems"
   />
@@ -98,7 +98,7 @@
 
 <p align="center">
   <img
-    src="./assets/terminal-footer.svg"
+    src="./assets/05-editorial-footer.svg"
     width="100%"
     alt="Architecture matters. Domain context matters. Evidence matters."
   />

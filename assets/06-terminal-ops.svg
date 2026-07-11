@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1328" height="252" viewBox="0 0 1328 252" role="img" aria-labelledby="title desc">
+  <title id="title">KIM MINSEOK — Terminal profile header</title>
+  <desc id="desc">Terminal-style GitHub profile header tightly cropped to the terminal frame.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020806"/>
+      <stop offset="100%" stop-color="#071A15"/>
+    </linearGradient>
+
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#071812"/>
+      <stop offset="50%" stop-color="#0A2119"/>
+      <stop offset="100%" stop-color="#071812"/>
+    </linearGradient>
+
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" fill-opacity=".18"/>
+    </pattern>
+
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="window">
+      <rect x=".5" y=".5" width="1327" height="251" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#window)">
+    <rect width="1328" height="252" fill="url(#bg)"/>
+    <rect width="1328" height="252" fill="url(#scanlines)"/>
+    <rect width="1328" height="252" fill="#010403" fill-opacity=".90"/>
+    <rect width="1328" height="34" fill="url(#bar)"/>
+
+    <circle cx="22" cy="17" r="5" fill="#EF4444"/>
+    <circle cx="40" cy="17" r="5" fill="#F59E0B"/>
+    <circle cx="58" cy="17" r="5" fill="#22C55E"/>
+
+    <text x="664" y="22"
+          text-anchor="middle"
+          fill="#5EEAD4"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+          font-size="11">
+      minseok@enterprise: ~/profile
+    </text>
+
+    <text x="32" y="78"
+          fill="#4ADE80"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+          font-size="17"
+          font-weight="700">$ whoami</text>
+
+    <text x="32" y="140"
+          fill="#E5FFF4"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+          font-size="54"
+          font-weight="800"
+          filter="url(#glow)">&gt; KIM_MINSEOK</text>
+
+    <text x="32" y="180"
+          fill="#67E8F9"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+          font-size="16"
+          font-weight="700">HR_DOMAIN :: BACKEND :: AI_SYSTEMS</text>
+
+    <text x="32" y="217"
+          fill="#86EFAC"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+          font-size="12">status=building_reliable_systems  evidence=true  guardrails=enabled</text>
+
+    <g transform="translate(924 61)"
+       font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+       font-size="12">
+      <text x="0" y="0" fill="#64748B">[runtime]</text>
+      <text x="0" y="29" fill="#A7F3D0">java/spring</text>
+      <text x="0" y="53" fill="#A7F3D0">oracle/postgres</text>
+      <text x="0" y="77" fill="#A7F3D0">python/fastapi</text>
+      <text x="0" y="101" fill="#67E8F9">skills/agents/hooks</text>
+      <text x="0" y="125" fill="#67E8F9">rag/wiki/graph</text>
+      <rect x="0" y="145" width="228" height="2" fill="#34D399"/>
+      <text x="0" y="170" fill="#FFFFFF">exit_code: 0</text>
+    </g>
+  </g>
+
+  <rect x=".5" y=".5" width="1327" height="251" rx="12"
+        fill="none" stroke="#34D399" stroke-opacity=".42" stroke-width="1"/>
+</svg>

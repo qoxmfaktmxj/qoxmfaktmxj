@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1372" height="272" viewBox="0 0 1372 272" role="img" aria-labelledby="title desc">
+  <title id="title">KIM MINSEOK — Editorial profile header</title>
+  <desc id="desc">Editorial newspaper-style GitHub profile header tightly cropped to its black frame.</desc>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFDF7"/>
+      <stop offset="100%" stop-color="#F1EBDD"/>
+    </linearGradient>
+
+    <pattern id="noise" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r=".8" fill="#111827" fill-opacity=".035"/>
+      <circle cx="6" cy="6" r=".7" fill="#111827" fill-opacity=".025"/>
+    </pattern>
+  </defs>
+
+  <rect width="1372" height="272" fill="url(#paper)"/>
+  <rect width="1372" height="272" fill="url(#noise)"/>
+
+  <rect x="1" y="1" width="1370" height="270"
+        fill="none" stroke="#111827" stroke-width="2"/>
+
+  <line x1="20" y1="42" x2="1352" y2="42"
+        stroke="#111827" stroke-width="1"/>
+  <line x1="20" y1="225" x2="1352" y2="225"
+        stroke="#111827" stroke-width="1"/>
+
+  <text x="20" y="27"
+        fill="#1D4ED8"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="11"
+        font-weight="700"
+        letter-spacing="2.2">THE MINSEOK SYSTEMS JOURNAL</text>
+
+  <text x="1352" y="27"
+        text-anchor="end"
+        fill="#111827"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="11"
+        font-weight="700"
+        letter-spacing="1.8">VOL. 09 · SEOUL</text>
+
+  <text x="686" y="121"
+        text-anchor="middle"
+        fill="#111827"
+        font-family="Georgia,'Times New Roman',serif"
+        font-size="76"
+        font-weight="700"
+        letter-spacing="-1.2">KIM MINSEOK</text>
+
+  <text x="686" y="164"
+        text-anchor="middle"
+        fill="#1D4ED8"
+        font-family="Inter,Pretendard,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif"
+        font-size="18"
+        font-weight="800"
+        letter-spacing="3">HR DOMAIN × BACKEND × AI SYSTEMS</text>
+
+  <text x="686" y="197"
+        text-anchor="middle"
+        fill="#374151"
+        font-family="Georgia,'Times New Roman',serif"
+        font-size="15"
+        font-style="italic">Building reliable software. Designing reliable AI.</text>
+
+  <text x="20" y="253"
+        fill="#111827"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="10"
+        font-weight="700">ARCHITECTURE</text>
+
+  <text x="156" y="253"
+        fill="#111827"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="10"
+        font-weight="700">MODERNIZATION</text>
+
+  <text x="314" y="253"
+        fill="#111827"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="10"
+        font-weight="700">PERFORMANCE</text>
+
+  <text x="1352" y="253"
+        text-anchor="end"
+        fill="#111827"
+        font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace"
+        font-size="10"
+        font-weight="700">ALL SYSTEMS ARE REAL</text>
+</svg>
