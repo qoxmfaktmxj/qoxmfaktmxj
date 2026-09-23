@@ -84,14 +84,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=qoxmfaktmxj&bg_color=0D1117&color=58A6FF&line=22D3EE&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
-
 <br/>
 
 <br/>
