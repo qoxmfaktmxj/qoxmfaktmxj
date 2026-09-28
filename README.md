@@ -31,8 +31,8 @@
 <h3 align="center">Building reliable enterprise software — and the systems that make AI reliable inside it.</h3>
 
 <p align="center">
-  HR 도메인과 레거시 엔터프라이즈 시스템을 깊이 이해하고,<br/>
-  AI가 <b>근거·규칙·안전장치</b> 안에서 일하도록 설계하는 백엔드 엔지니어입니다.
+  인사 도메인의 복잡한 업무 규칙을 백엔드 시스템으로 구현해 왔습니다.<br/>
+  레거시 시스템의 맥락을 이해하고, AI가 실제 코드와 업무 규칙 안에서 안전하게 일할 수 있는 환경을 만듭니다.
 </p>
 
 <br/>
@@ -40,10 +40,10 @@
 
 ## 🧭 What I Do
 
-- **Enterprise Backend & Modernization** — Java/Spring 기반 레거시 분석, 성능 개선, 클라우드·플랫폼 이관
-- **HR Domain Engineering** — 인사·조직·급여·근태·성과·복리후생 업무 규칙을 시스템으로 구현
-- **AI / AX Engineering** — Skills, Agents, Hooks, Guardrails를 결합해 AI가 실제 코드베이스에서 안전하게 일할 환경 설계
-- **Technical Leadership** — 고객 협의, 파트 리딩, 팀원 교육, AI 파일럿에서 조직 확산까지 실행
+- **Enterprise Backend & Modernization** - Java/Spring 기반 시스템 분석, 성능 개선, 클라우드/플랫폼 이관
+- **HR Domain Engineering** - 인사, 조직, 급여, 근태, 성과, 복리후생의 업무 규칙 설계와 구현
+- **AI / AX Engineering** - 실제 코드베이스와 고객 요구사항을 바탕으로 AI 작업 환경을 설계하고 MVP 구현
+- **Technical Leadership** - 고객 요구사항 조율, 파트 리딩, 팀원 교육, AI 파일럿의 현업 적용 추진
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Backend_Architecture-2563EB?style=flat-square" alt="Backend Architecture" />
